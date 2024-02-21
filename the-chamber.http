@@ -1,0 +1,6 @@
+@the_chamber_HostAddress = http://localhost:5013
+
+GET {{the_chamber_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
